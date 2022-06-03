@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my Portfolio!
 
-You can use the [editor on GitHub](https://github.com/SaraRFerrer/Porfolio-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Sara Ferrer and this is my Portfolio. I have a bachelor in Marketing with a major in Digital Marketing. I am currently finishing my first year of Fronnt-end Development at Noroff School of Technology and Digital Media.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Profile-Picture kopi](https://user-images.githubusercontent.com/91666428/171849008-85fd8b58-8984-4fa7-8e9a-af6da0acea35.jpg)
+
+
 
 ### Markdown
 
