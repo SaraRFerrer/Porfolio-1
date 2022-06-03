@@ -59,7 +59,7 @@ a {
 }
 
 h1 {
-    color: blue;
+    color: rgb(110, 110, 218);
     font-size: 4em;
 }
 
@@ -78,7 +78,7 @@ h1 {
 
 span {
     animation: blinker 1s linear infinite;
-    color: blue;
+    color: white;
 }
 
 @keyframes blinker {
