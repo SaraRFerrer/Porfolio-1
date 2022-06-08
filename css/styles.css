@@ -79,6 +79,7 @@ h1 {
 span {
     animation: blinker 1s linear infinite;
     color: white;
+    font-weight: bolder;
 }
 
 @keyframes blinker {
@@ -177,6 +178,7 @@ h3 {
     display: flex;
     
 }
+
 
 @media screen and (max-width: 1000px) {
 
